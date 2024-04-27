@@ -1,0 +1,4 @@
+1. pathToFile = $(get path to file)
+2. shaFile = $(shasum $pathToFile)
+3. Go to repository
+4. run script: `sgsf.sh $pathToFile $shaFile`
